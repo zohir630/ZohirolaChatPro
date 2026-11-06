@@ -1,61 +1,27 @@
 {
   "project_info": {
-    "project_number": "713876726773",
-    "firebase_url": "https://letschat-31c80.firebaseio.com",
-    "project_id": "letschat-31c80",
-    "storage_bucket": "letschat-31c80.appspot.com"
+    "project_number": "1059240556263",
+    "firebase_url": "https://zohirola-afdcc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "zohirola-afdcc",
+    "storage_bucket": "zohirola-afdcc.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:713876726773:android:7516967105f42edfd8b6bc",
+        "mobilesdk_app_id": "1:1059240556263:android:3a8041b4dc881032b5d442",
         "android_client_info": {
           "package_name": "com.zohirola.app"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "713876726773-jefdmp8hqi7meehikl7qc0knr5elvgdg.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.zohirola.app",
-            "certificate_hash": "8f067951f97ceb66ed871e1bdf62404f32ce1101"
-          }
-        },
-        {
-          "client_id": "713876726773-mrqj2mpsm1jcavcursp6vmelglkeb7i6.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.zohirola.app",
-            "certificate_hash": "a7ee622ee9d484ca3a3f44b18bfdb642f21bba6d"
-          }
-        },
-        {
-          "client_id": "713876726773-n8oqdoievdudn72eulv0t5ebqv8mah61.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.zohirola.app",
-            "certificate_hash": "542c95c560a25358c37923ddd271a737c730c131"
-          }
-        },
-        {
-          "client_id": "713876726773-0clemuuk99ed2clrqjor4u6s8jkgl98h.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAZfALlXiAfKOOQCAbcgh9wRphqYhhnYOI"
+          "current_key": "AIzaSyCEuxAIAEOt1Jht9uVsQbA9WMtCj750Xek"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "713876726773-0clemuuk99ed2clrqjor4u6s8jkgl98h.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
